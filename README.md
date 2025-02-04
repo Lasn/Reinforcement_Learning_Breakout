@@ -2,6 +2,14 @@
 
 This repository contains a reinforcement learning project for training an agent to play the classic game Breakout using Deep Q-Networks (DQN).
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/9c5cda9d-3049-4b12-bae4-2d79afaceca6
+
+
+
 ## Project Structure
 
 - `QN_breakout_vision.py`: Contains the implementation of the DQN agent with a Convolutional Neural Network (CNN) for processing the screen as visual input.
@@ -63,10 +71,6 @@ To test the trained DQN agent with simple state representation, run:
 ```sh
 python test.py
 ```
-
-## Results
-
-Training and testing results, including plots of scores over episodes, will be saved in the project directory.
 
 ## License
 

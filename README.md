@@ -72,10 +72,6 @@ To test the trained DQN agent with simple state representation, run:
 python test.py
 ```
 
-## Results
-
-Training and testing results, including plots of scores over episodes, will be saved in the project directory.
-
 ## License
 
 This project is licensed under the MIT License.

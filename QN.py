@@ -164,6 +164,7 @@ def train(DQNAgent, device="cpu"):
 
     agent = DQNAgent(state_size, action_size, device=device)
 
+    # load model if needed to continue training from a checkpoint
     # agent.load_model("good/Breakout_3954_record_600.pth")
 
     n_episodes = 50000
